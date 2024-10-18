@@ -85,17 +85,4 @@ button:hover{
 button:active{
     transform: scale(0.95); 
 }
-@media (max-width: 768px) {
-    input {
-        width: 100%;
-        font-size: 32px;
-    }
-
-    button {
-        width: 60px;
-        height: 60px;
-        font-size: 18px;
-        margin: 10px;
-    }
-}
 
